@@ -1206,3 +1206,6 @@ zeroconf==0.19.1
 
 # homeassistant.components.media_player.ziggo_mediabox_xl
 ziggo-mediabox-xl==1.0.0
+
+# homeassistant.components.device_tracker.tplink
+pytplinkrouter==0.1.0
